@@ -13,3 +13,9 @@ Word spreads fast so if you start with one gang you start with both.
 - go to server.cfg and ensure "[scripts]"
 - check client for config options
 - restart server
+
+-- WIP --
+- gang of zone not being targeted by peds
+- ped attack command (admin)
+- gang phone
+- gang wars app
